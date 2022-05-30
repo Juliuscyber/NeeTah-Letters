@@ -626,8 +626,6 @@ img{
 .letter-grid{
     grid-template-columns: repeat(2, 1fr);
     row-gap: 1.5rem;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 .letter h2{
     font-family: 'EB Garamond', serif;
@@ -656,12 +654,6 @@ img{
     }
     .letter{
         max-width: 100%;
-    }
-}
-
-@media screen and (max-width:359px) {
-    .letter-grid{
-      padding-left: 5px;
     }
 }
 
