@@ -170,11 +170,10 @@ li{
 }
 
 #home{
-    background: fixed;
     background-color: #ffffff;
-    background-image: url(images/Photos/author-02-min.jpg);
+    background-image: url(images/Photos/books.jpg);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     background-size:cover;
 }
 .landing-page{
